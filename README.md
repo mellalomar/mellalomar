@@ -46,12 +46,12 @@
         <li><a target="_blank" href = "https://github.com/mellalomar/community-detection"><i>Community Detection</i></a></li>
         <li><a target="_blank" href = "https://github.com/mellalomar/commentaires_youtube"><i>Comments Youtube Analysis</i></a></li> 
         <li><a target="_blank" href = "https://github.com/mellalomar/Moroccan-Darija-Sentiment-Analysis"><i>Moroccan Darija Sentiment Analysis</i></a></li>
-        <li><a target="_blank" href="https://github.com/mellalomar/Dashboard_Covid-19"><i>Dashboard Covid forcasting</i></a></li>
+        <li><a target="_blank" href="https://github.com/mellalomar/Dashboard_Covid-19"><i>Dashboard Covid forcasting</i></a>
       </ul> 
     </td>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/mellalomar/Reseau_neuronal_convolutif"><i>CNN Project</i></a></li>
+        <li><a target="_blank" href="https://github.com/mellalomar/Reseau_neuronal_convolutif"><i>CNN Project</i></a>
        
         
       </ul>
@@ -64,8 +64,8 @@
   <tr>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/mellalomar/Distributed-Computing-HPC-Assignments"><i>Distributed Computing HPC Assignments</i></a></li>
-        <li><a target="_blank" href="https://github.com/mellalomar/TP_HPC"><i>HPC</i></a> </li>
+        <li><a target="_blank" href="https://github.com/mellalomar/Distributed-Computing-HPC-Assignments"><i>Distributed Computing HPC Assignments</i></a>
+        <li><a target="_blank" href="https://github.com/mellalomar/TP_HPC"><i>HPC</i></a> 
       
       </ul>
     </td>
