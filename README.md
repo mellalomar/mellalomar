@@ -64,12 +64,9 @@
       <ul>
         <li><a target="_blank" href="https://github.com/mellalomar/Distributed-Computing-HPC-Assignments"><i>Distributed Computing HPC Assignments</i></a>
         <li><a target="_blank" href="https://github.com/mellalomar/TP_HPC"><i>HPC</i></a>
-      
       </ul>
     </td>
-  </tr>
-<tr>
-  </tr>
+  <tr>
 </table>
 </div>
 
