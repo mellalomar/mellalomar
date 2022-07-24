@@ -51,9 +51,7 @@
     </td>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/mellalomar/Reseau_neuronal_convolutif"><i>CNN Project</i></a></li>
-       
-        
+        <li><a target="_blank" href="https://github.com/mellalomar/Reseau_neuronal_convolutif"><i>CNN Project</i></a>
       </ul>
     </td>
   </tr>
