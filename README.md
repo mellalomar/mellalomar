@@ -68,8 +68,8 @@
     </td>
    <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/mellalomar/Distributed-Computing-HPC-Assignments"><i>Distributed Computing HPC Assignments</i></a>
-        <li><a target="_blank" href="https://github.com/mellalomar/TP_HPC"><i>HPC</i></a>
+        <li><a target="_blank" href="https://github.com/mellalomar/mellalomar"><i>...................................</i></a>
+        <li><a target="_blank" href="https://github.com/mellalomar/mellalomar"><i>...................................</i></a>
       </ul>
     </td>
   <tr>
