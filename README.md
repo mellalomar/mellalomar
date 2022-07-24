@@ -18,7 +18,7 @@
 <div align="center">
 
 ## Github Stats
-<a href="https://github.com/venugopalkadamba">
+<a href="https://github.com/mellalomar">
   <img align="center" alt="Venu Gopal Github Stats" src="https://github-readme-stats.vercel.app/api?username=mellalomar&show_icons=true&theme=tokyonight">
 </a>
 </div>
@@ -51,31 +51,27 @@
     </td>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Verification_based_Attendance_system"><i>Face Verification based Attendance System</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Emotion_Recognition"><i>Face Emotion Recogniton</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>American Sign Language Detection</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Social_Media_WebApp_with_FaceVerification_Login"><i>Social Media WebApp with Face Verification Login</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Mask_Detector"><i>Face Mask Detector</i></a></li>
+        <li><a target="_blank" href="https://github.com/mellalomar/Reseau_neuronal_convolutif"><i>CNN Project</i></a></li>
+       
+        
       </ul>
     </td>
   </tr>
   <tr>
-    <th>NLP</th>
+    <th>Haut Performance Computing</th>
     <th>Internships</th>
   </tr>
   <tr>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Movie-Recommendation-System-ML-React-Flask"><i>Movie Recommendation System</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Text_Summarizer_NLP_Project"><i>Text Summarizer using Text Rank Algorithm</i></a> </li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp"><i>SMS Spam Detection</i></a></li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Fake_News_Detector"><i>Fake News Detector</i></a></li>
+        <li><a target="_blank" href="https://github.com/mellalomar/Distributed-Computing-HPC-Assignments"><i>Distributed Computing HPC Assignments</i></a></li>
+        <li><a target="_blank" href="https://github.com/mellalomar/TP_HPC"><i>HPC</i></a> </li>
+      
       </ul>
     </td>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>Data Science Internship at Technocolabs</i></a> </li>
-        <li><a target="_blank" href="https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship"><i>Data Science and Analytics Internship at The Sparks Foundation</i></a></li>
+       
       </ul>
     </td>
   <tr>
