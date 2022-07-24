@@ -69,11 +69,7 @@
       
       </ul>
     </td>
-    <td>
-      <ul>
-       
-      </ul>
-    </td>
+   
   <tr>
 </table>
 </div>
