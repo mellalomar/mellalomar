@@ -51,7 +51,7 @@
     </td>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/mellalomar/Reseau_neuronal_convolutif"><i>CNN Project</i></a>
+        <li><a target="_blank" href="https://github.com/mellalomar/Reseau_neuronal_convolutif"><i>CNN Project</i></a></li>
        
         
       </ul>
@@ -64,8 +64,8 @@
   <tr>
     <td>
       <ul>
-        <li><a target="_blank" href="https://github.com/mellalomar/Distributed-Computing-HPC-Assignments"><i>Distributed Computing HPC Assignments</i></a>
-        <li><a target="_blank" href="https://github.com/mellalomar/TP_HPC"><i>HPC</i></a> 
+        <li><a target="_blank" href="https://github.com/mellalomar/Distributed-Computing-HPC-Assignments"><i>Distributed Computing HPC Assignments</i></a></li>
+        <li><a target="_blank" href="https://github.com/mellalomar/TP_HPC"><i>HPC</i></a></li>
       
       </ul>
     </td>
