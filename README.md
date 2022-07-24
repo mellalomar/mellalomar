@@ -1,4 +1,4 @@
-## Hi there, I am Omar MELLAL height="60" width="60" src="./assets/hi.gif" />
+## Hi there, I am Omar MELLAL <height="60" width="60" src="./assets/hi.gif" />
 <i>I am a self taught <b>Python Programmer</b>.</i>
 <i>
   
