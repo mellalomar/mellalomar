@@ -59,7 +59,7 @@
     <th>Haut Performance Computing</th>
     <th>Internships</th>
   </tr>
-
+<tr>
     <td>
       <ul>
         <li><a target="_blank" href="https://github.com/mellalomar/Distributed-Computing-HPC-Assignments"><i>Distributed Computing HPC Assignments</i></a>
@@ -67,7 +67,7 @@
       
       </ul>
     </td>
-   
+  </tr>
 
 </table>
 </div>
